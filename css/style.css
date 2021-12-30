@@ -36,6 +36,14 @@ body
 
 #container h1
 {
+    font-size: 40px;
+}
+#container h2
+{
+    font-size: 30px;
+}
+#container h3
+{
     font-size: 20px;
 }
 #post
